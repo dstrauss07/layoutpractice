@@ -1,0 +1,21 @@
+main,aside {
+    float:left;
+    padding:2rem;
+}
+main,aside,nav, footer {
+    box-sizing:border-box;
+}
+#main-content{
+    clear:both;
+}
+nav img, nav ul, nav ul li {
+    float:left;
+}
+
+header{
+    height:50px;
+}
+
+footer{
+    clear:both;
+}
